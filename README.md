@@ -1,5 +1,10 @@
 # The HTML report system
 
+> **This now lives in [ai-tools](https://github.com/punkhop/ai-tools).** The report pages are one
+> piece of a bigger setup you can pick from: chat pages, memory, prototypes, images and more.
+> Start at the [setup page](https://punkhop.github.io/ai-tools/setup/). This repo stays as it was
+> and gets no more updates.
+
 A way to make Claude hand you a **page** instead of a wall of text.
 
 You ask a question that deserves a real answer — compare these five options, is this actually
